@@ -1,9 +1,11 @@
+import Header from "./components/Header.jsx";
+
 function App() {
   return (
-    <main>
-      <h1>Caos</h1>
-      <p>Ropa vintage</p>
-    </main>
+    <>
+      <Header />
+      <main></main>
+    </>
   );
 }
 
